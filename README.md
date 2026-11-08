@@ -1,5 +1,13 @@
 # Asylumination's *Profile.* 
-I am Asy from INDIA
+Hi! I am from 🇮🇳. I completed my bachelor's in mechanical engineering (2024).
+
+My interest are to play games, to learn new things, to learn programming particular in python, C, C++ etc., want to learn game designing(since i love to play games), and yeah to learn drawing.
+
+Since almost interests are related to cs you may ask then why i not joined cse? why mech?
+
+Simple because i love mech engg too but the this are what you call after work interest.
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asylumination/)   
 <!--
