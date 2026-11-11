@@ -1,7 +1,7 @@
 # Asylumination's *Profile.* 
 Hi! I am from 🇮🇳. I completed my bachelor's in mechanical engineering (2024).
 
-My interest are to play games, to learn new things, to learn programming particular in python, C, C++ etc., want to learn game designing(since i love to play games), and yeah to learn drawing.
+My interest are to play games, to learn new things, to learn python, C, C++ etc., want to learn game designing(since i love to play games), and yeah to learn drawing.
 
 Since almost interests are related to cs you may ask then why i not joined cse? why mech?
 
